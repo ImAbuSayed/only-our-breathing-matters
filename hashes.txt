@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Our Breathing Matters
+
+This log tracks the cryptographic history and versioning for the song **Only Our Breathing Matters** (only-our-breathing-matters).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T04:36:03.826814 | `v1` | `d23199c315881dd2eed68718b85ccc7368968ae9db849d4da4dc0552c123d02d` | `8a6e2dd3ce4da04eab66da94bc6c384726db005ca8b23e3212b42e8a6b5047d6` | `2026-06-11_only-our-breathing-matters-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
